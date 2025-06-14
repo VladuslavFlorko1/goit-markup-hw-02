@@ -114,8 +114,11 @@ letter-spacing: 0.02em;
 /*-----------team-------------start*/
 .team {
     background-color: #f4f4fd;
-    
 }
+.team-list-item {
+  background-color: #FFFFFF;
+}
+
 .team-title{
 line-height: 1.11;
 letter-spacing: 0.02em;
