@@ -55,9 +55,9 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.header-linc{font-style: normal;}
-.header-linc :hover{color: #404bbf;}
-.header-linc :focus{color: #404bbf;}
+.header-contacts{font-style: normal;}
+.header-linc:hover { color: #404bbf; }
+.header-linc:focus { color: #404bbf; }
 /*-----------header----------end*/
 /*-----------border-start-------*/
 .border {
